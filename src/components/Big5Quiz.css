@@ -1,0 +1,16 @@
+.big5-quiz {
+  padding: 5rem;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+.big5-quiz h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2196F3;
+}
+
+.big5-quiz p {
+  font-size: 1.2rem;
+  color: #212121;
+}

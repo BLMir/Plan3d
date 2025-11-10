@@ -1,0 +1,35 @@
+.gallery {
+  padding: 5rem;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+.gallery h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2196F3;
+}
+
+.gallery p {
+  color: #212121;
+}
+
+.gallery-images {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.gallery-image .placeholder {
+  width: 300px;
+  height: 300px;
+  background-color: #333;
+  border-radius: 50%;
+}
+
+.gallery-image p {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #212121;
+}
