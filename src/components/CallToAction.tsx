@@ -31,7 +31,7 @@ const CallToAction: React.FC = () => {
   };
 
   return (
-    <div className="call-to-action">
+    <div className="call-to-action" id="subscribe-section">
       <h2>Be the First to Know</h2>
       <p>Sign up for our mailing list to be notified when the Planet Lamp is available.</p>
       <div className="signup-form">

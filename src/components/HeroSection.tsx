@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       <div className="hero-content">
         <h1>Your Planet, Your Light</h1>
         <p>Discover a lamp that's as unique as you are. Crafted based on your personality.</p>
-        <button className="cta-button">Create Your Planet</button>
+        <a href="#subscribe-section" className="cta-button">Create Your Planet</a>
       </div>
     </div>
   );
