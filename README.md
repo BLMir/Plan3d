@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is a landing page for Plan3D's "Planet Lamp" product. It features a hero section, product showcase, gallery, call to action, and a Big 5 personality quiz to engage users. The page is built using React and aims to provide an interactive and informative experience for potential customers.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
